@@ -1,0 +1,1 @@
+{"unityVersion":"5.2.1f1","buildNumber":10,"cloudBuildTargetName":"android","scmCommitId":"88e565df27ca35c2603c29eb924dc018f32a22c1","scmBranch":"master","buildStartTime":"1/15/2016 5:25:22 PM","projectId":"unitychrism/exampleunity","bundleId":"com.abstractron.exampleunity"}
